@@ -1,2 +1,3 @@
+# Sql Queries
 
-My Project media
+All queries stored in : `Sql Queries`
