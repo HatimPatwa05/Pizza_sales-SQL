@@ -1,3 +1,3 @@
-# Pizza_sales-
 
-My Project
+# Pizza_sales-SQL
+My project
